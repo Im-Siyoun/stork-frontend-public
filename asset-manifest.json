@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stork-front-public/static/css/main.c8760799.chunk.css",
+    "main.js": "/stork-front-public/static/js/main.3e5f2e35.chunk.js",
+    "main.js.map": "/stork-front-public/static/js/main.3e5f2e35.chunk.js.map",
+    "runtime-main.js": "/stork-front-public/static/js/runtime-main.0579350f.js",
+    "runtime-main.js.map": "/stork-front-public/static/js/runtime-main.0579350f.js.map",
+    "static/js/2.83c446eb.chunk.js": "/stork-front-public/static/js/2.83c446eb.chunk.js",
+    "static/js/2.83c446eb.chunk.js.map": "/stork-front-public/static/js/2.83c446eb.chunk.js.map",
+    "static/js/3.478b9a17.chunk.js": "/stork-front-public/static/js/3.478b9a17.chunk.js",
+    "static/js/3.478b9a17.chunk.js.map": "/stork-front-public/static/js/3.478b9a17.chunk.js.map",
+    "index.html": "/stork-front-public/index.html",
+    "static/css/main.c8760799.chunk.css.map": "/stork-front-public/static/css/main.c8760799.chunk.css.map",
+    "static/js/2.83c446eb.chunk.js.LICENSE.txt": "/stork-front-public/static/js/2.83c446eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0579350f.js",
+    "static/js/2.83c446eb.chunk.js",
+    "static/css/main.c8760799.chunk.css",
+    "static/js/main.3e5f2e35.chunk.js"
+  ]
+}
